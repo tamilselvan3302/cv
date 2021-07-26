@@ -1,0 +1,57 @@
+
+    body
+    {
+        background-color: rgba(198, 227, 235, 0.747);
+    }
+    hr
+    {
+        color:black;
+        height: 0px;
+        width: 7%;
+        border-style: dotted none none none;
+        border-width: 7px;
+        border-radius: 50;
+    }
+    
+    h1,h3
+    {
+        color: #66BFBF;
+        
+    }
+    img
+    {
+        background-color: red;
+        height:200px; 
+        width:200px; 
+    }
+    .user2
+    {
+        background-color: rosybrown;
+    }
+    .user3
+    {
+        background-color: rgb(75, 31, 116);
+    }
+    .circular{    
+    border-radius:100%;
+    }
+
+    #heading
+    {
+        color: slateblue;
+    }
+
+    #big
+    {
+          font-size: 50px;
+    }
+    /* hover */
+    h2:hover
+    {
+       color:gold;
+    }
+    img:hover
+    {
+       background-color:gold;
+    }
+    
